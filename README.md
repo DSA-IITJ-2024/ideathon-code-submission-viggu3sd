@@ -5,18 +5,18 @@ This C program simulates an air traffic monitoring system, managing arrival, dep
 
 ## Getting Started
 
-To compile and run the program, use a C compiler such as GCC:
+To compile and run the program, use a C compiler such as GCC.
 
 
 
 ## Contributors
 - [Thiruvidhula Sai Vignesh](https://github.com/viggu3sd)
-- [shagun](https://github.com/shxgunx)
-- [sowmya siri didla](https://github.com/Sowmyasirididla)
+- [Shagun Suryavanshi](https://github.com/shxgunx)
+- [Sowmya siri didla](https://github.com/Sowmyasirididla)
 - [Kashvi pandya](https://github.com/kashhvii)
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
 ## Support
-For any questions, issues, or suggestions, please [open an issue](https://github.com/dhruvpsr/delivery-route-optimization/issues).
+For any questions, issues, or suggestions, please [open an issue](https://github.com/viggu3sd/Air-traffic-monitering-system/tree/main).
